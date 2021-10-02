@@ -1,0 +1,8 @@
+Emp_no,Emp_name,Department
+101,Bhupal,HealthCare
+Inavlid Rntry,Description: Bad Record Entry
+102,Havish,Finance
+103,Anitha,IT
+Connection lost,Description: Poor Connection
+104,Pujya,HR
+Bad Record,Description:Corrupt Record
