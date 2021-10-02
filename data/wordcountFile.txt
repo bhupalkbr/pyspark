@@ -1,0 +1,2 @@
+repartitio creates specified files partition memory
+partitionBy write files memory partition partition
